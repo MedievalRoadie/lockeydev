@@ -126,10 +126,9 @@ Contact your VPN provider for setup instructions specific to their service.
 
 ## Contact Support
 
-For additional help:
+If you experience any weirdnesses or bugs, or have any suggestions for improvements:
 
 - **Email**: veilway@lockeydev.com
-- **Website**: https://lockeydev.com
 
 ---
 
